@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=huayra-quotes
+Name=huayra-tiempo
 Comment=Comment
-Exec=/usr/bin/huayra-quotes
+Exec=/usr/bin/huayra-tiempo
 Terminal=false
 Type=Application
-Icon=huayra-quotes
+Icon=huayra-tiempo
 Categories=GNOME;GTK;Huayra;Network;
