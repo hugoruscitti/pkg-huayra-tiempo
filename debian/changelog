@@ -1,3 +1,15 @@
+huayra-tiempo (1:1.3.0-1) unstable; urgency=low
+
+  * Actualizando a la version 1.3.0
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 24 Sep 2015 20:05:28 +0200
+
+huayra-tiempo (1:1.1.0-1) unstable; urgency=low
+
+  * Actualizando a la version 1.1.0
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Wed, 23 Sep 2015 19:35:23 +0200
+
 huayra-tiempo (1:1.0.0-1) unstable; urgency=low
 
   * Refactorizado a ember 1.13.
